@@ -14,3 +14,8 @@ Uso:
 ----
 			node init *args*
 			jasmine-node spec/
+
+Autores:
+--------
+Renan Couto
+Felipe F. Lima
