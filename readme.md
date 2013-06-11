@@ -4,16 +4,17 @@ FizzBuzz
 Requisitos:
 -----------
 Node.js
-Jasmine-node
+Mocha
+~~Jasmine-node~~
 
 Instalação:
 -----------
-			npm install jasmine-node -g
+	npm install mocha -g
 
 Uso:
 ----
-			node init *args*
-			jasmine-node spec/
+	node init *args*
+	mocha
 
 Autores:
 --------

@@ -1,4 +1,4 @@
-var base = require('./fizzbuzz/base.js'),
+var base = require('./lib/base.js'),
 	args = process.argv;
 
 args.shift();
